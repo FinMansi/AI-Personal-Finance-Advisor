@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is compound interest?",
+    "answer": "Compound interest is the interest calculated on both the initial principal and the accumulated interest from previous periods. It helps your money grow faster compared to simple interest."
+  },
+  {
+    "question": "What is SIP?",
+    "answer": "SIP stands for Systematic Investment Plan. It allows you to invest a fixed amount regularly in mutual funds, helping you build wealth gradually with discipline."
+  },
+  {
+    "question": "What is the difference between stocks and mutual funds?",
+    "answer": "Stocks represent ownership in a single company, while mutual funds pool money from many investors to invest in a diversified set of stocks, bonds, or other assets."
+  },
+  {
+    "question": "What is a fixed deposit?",
+    "answer": "A fixed deposit is a savings option offered by banks where you deposit money for a fixed period and earn guaranteed interest."
+  },
+  {
+    "question": "What is inflation?",
+    "answer": "Inflation is the rise in the general price level of goods and services over time, which reduces the purchasing power of money."
+  }
+]
